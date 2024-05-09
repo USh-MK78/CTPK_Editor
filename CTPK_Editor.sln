@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTPK_Editor", "CTPK_Editor\CTPK_Editor.csproj", "{731B4CA1-AED4-4FAA-ACB4-D352AAC0A223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTPK_Library", "CTPK_Library\CTPK_Library.csproj", "{04A5E3F1-E8C0-4A27-BC4E-17D2671081C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731B4CA1-AED4-4FAA-ACB4-D352AAC0A223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731B4CA1-AED4-4FAA-ACB4-D352AAC0A223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731B4CA1-AED4-4FAA-ACB4-D352AAC0A223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731B4CA1-AED4-4FAA-ACB4-D352AAC0A223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A5E3F1-E8C0-4A27-BC4E-17D2671081C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A5E3F1-E8C0-4A27-BC4E-17D2671081C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A5E3F1-E8C0-4A27-BC4E-17D2671081C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A5E3F1-E8C0-4A27-BC4E-17D2671081C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055AADAA-FAF7-43E1-82ED-57862EB74BB0}
+	EndGlobalSection
+EndGlobal
